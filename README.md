@@ -27,10 +27,10 @@ To run the code, follow these steps:
 
 * Download Pretrained Model: If you want to use the pretrained models, download them from the project's GitHub repository. These weights can be used to test the models without retraining.
 
-To test the models using the pretrained weights, simply run the test section in the notebook and skip the training sections.
+        To test the models using the pretrained weights, simply run the test section in the notebook and skip the training sections.
 
 * Retrain the Model: If you prefer to train the models from scratch, do not import the pretrained models.
 
-In this case, you need to execute all the training sections in the notebook to train the models anew.
+        In this case, you need to execute all the training sections in the notebook to train the models anew.
 
-By following these instructions, you can either test the models with pretrained weights or retrain them from scratch as per your requirements.
+By following these instructions, you can either test the models with pretrained weights or retrain them from scratch.
